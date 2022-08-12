@@ -44,3 +44,9 @@
 - `func NAME(ARG_1:SIZE, ARG_2:SIZE, ...) CODE end`: makes a function with labels referring to the arguments and allocates space for locals defined with let
 - `let NAME:SIZE`: allocates memory for a local variable
 - `exit`: generates the appropiate `ret` instruction, alongside the code to clean the stack if any local variable was made
+
+https://www.maddes.net/m6809pm/sections.htm
+https://www.chibiakumas.com/6809/6809Cheatsheet.pdf
+https://www.assemblytutorial.com/
+https://ia801601.us.archive.org/13/items/bitsavers_motorolada_3224333/6809.pdf
+https://robey.lag.net/2010/01/23/tiny-monospace-font.html
